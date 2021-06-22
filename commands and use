@@ -1,0 +1,9 @@
+ifconfig-interface configuration command is used to configure the kernel resident network interfaces.
+grep-The grep filter searches a file for a particular pattern of characters, and displays all lines that contain that pattern.
+netstat-to see network related information such as network connections ,routing table etc.
+systemctl-The systemctl command is a new tool to control the systemd system and service.
+ps-it displays the currently running processes.
+kill-used to terminate the process manually.
+nano-it is a simple editor.
+vi-Most popular classic text editor.
+sudo-it provides an efficient way to give specific users permission to use specific system commands.
