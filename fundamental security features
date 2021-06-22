@@ -1,0 +1,4 @@
+ports-A port is an application-specific or process-specific software construct serving as a communications endpoint and it is identified by its number such as TCP port number 80
+sysctl-The sysctl command allows you to view and change Linux kernel parameters.
+ufw-Uncomplicated Firewall is a program for managing a netfilter firewall designed to be easy to use. It uses a command-line interface consisting of a small number of simple commands, and uses iptables for configuration.
+ssh-keygen- command to generate a public/private authentication key pair. Authentication keys allow a user to connect to a remote system without supplying a password.
